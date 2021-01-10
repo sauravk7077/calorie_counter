@@ -1,0 +1,12 @@
+{
+    "foods": [
+        {
+            "name" : "Pizza",
+            "calories" : 1400
+        },
+        {
+            "name" : "Burger",
+            "calories" : 1200
+        }
+    ]
+}
